@@ -14,7 +14,7 @@ int mul(int n1, int n2) {
 	return n1 * n2;
 }
 
-float devide(int n1, int n2) {
+float divide(int n1, int n2) {
 	return float(n1) / float(n2);
 }
 
@@ -26,6 +26,6 @@ int main() {
 	cout << add(n1, n2) << endl;
 	cout << sub(n1, n2) << endl;
 	cout << mul(n1, n2) << endl;
-	cout << devide(n1, n2) << endl;
+	cout << divide(n1, n2) << endl;
 
 }
