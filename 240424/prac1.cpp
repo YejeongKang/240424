@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 using namespace std;
 
@@ -20,7 +20,7 @@ float devide(int n1, int n2) {
 
 int main() {
 	int n1, n2; 
-	cout << "Á¤¼ö µÎ °³¸¦ ÀÔ·ÂÇÏ½Ã¿À.\n";
+	cout << "ì •ìˆ˜ ë‘ ê°œë¥¼ ìž…ë ¥í•˜ì‹œì˜¤.\n";
 	cin >> n1 >> n2;
 
 	cout << add(n1, n2) << endl;
