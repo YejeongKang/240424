@@ -17,6 +17,9 @@ int mul(int n1, int n2) {
 float divide(int n1, int n2) {
 	return float(n1) / float(n2);
 }
+/* float divide(float n1, float n2) {
+return n1 / n2;
+}*/
 
 int main() {
 	int n1, n2; 

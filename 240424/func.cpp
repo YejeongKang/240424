@@ -35,3 +35,15 @@ void PrintHi()
     cout << "Hi ~~~" << endl;
 }
 
+
+string OddEven(int num)
+{
+    if ((num % 2) == 0) // 짝수
+    {
+        return "짝수";
+    }
+    else // 홀수
+    {
+        return "홀수";
+    }
+}
