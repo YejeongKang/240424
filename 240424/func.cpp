@@ -13,6 +13,10 @@ int IntSum(int n1, int n2)
 {
     return n1 + n2;
 }
+void PrintSomething(string message)
+{
+    cout << message << endl;
+}
 
 int main()
 {
@@ -23,11 +27,6 @@ int main()
     int result = IntSum(4, 7); // 4 + 7
     // int result = PrintHi(); // 리턴되는 값이 없어서 가져올 것도 없다.
     PrintSomething("Neuron");
-
-}
-void PrintSomething(string message)
-{
-    cout << message << endl;
 }
 
 void PrintHi()
