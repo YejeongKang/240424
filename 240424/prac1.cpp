@@ -23,9 +23,9 @@ int main() {
 	cout << "정수 두 개를 입력하시오.\n";
 	cin >> n1 >> n2;
 
-	cout << add(n1, n2) << endl;
-	cout << sub(n1, n2) << endl;
-	cout << mul(n1, n2) << endl;
-	cout << divide(n1, n2) << endl;
+	cout << "합 : " << add(n1, n2) << endl;
+	cout << "차 : " << sub(n1, n2) << endl;
+	cout << "곱 : " << mul(n1, n2) << endl;
+	cout << "나눗셈 : " << divide(n1, n2) << endl;
 
 }
