@@ -21,15 +21,13 @@ int main() {
 			if (nation == city[i]) {
 				check = true;
 				cout << "[" << i + 1 << "]" << city[i] << endl;
+				break;
 			}			
 		}
-		if (check = false) {
+		if (check == false) {
 			cout << "나라 이름을 제대로 입력하시오.";
 		}
 	}
-
-
-
 }
 
 
