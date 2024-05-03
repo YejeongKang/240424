@@ -18,16 +18,16 @@
     <ClCompile Include="func.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="prac1.cpp">
+    <ClCompile Include="prac1_operator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="prac2.cpp">
+    <ClCompile Include="prac2_find_country.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="index.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Exercise.cpp">
+    <ClCompile Include="do_while.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="prac_country_John.cpp">
